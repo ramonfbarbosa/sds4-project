@@ -3,7 +3,7 @@ export type SaleSum = {
     sum: number;
 }
 
-export type SaleSucess = {
+export type SaleSuccess = {
     sellerName: string;
     visited: number;
     deals: number;
